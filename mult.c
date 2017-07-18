@@ -3,7 +3,7 @@
 
 int mult( int x, int y ){
   printf("...entering mult\n");
-  return x*y*20;
+  return x*y*10;
 }
 int getoper(){
   int x;
